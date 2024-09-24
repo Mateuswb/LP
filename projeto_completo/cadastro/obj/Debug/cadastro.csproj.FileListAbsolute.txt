@@ -1,0 +1,10 @@
+C:\Users\werzi\OneDrive\Documents\L.programacao\completo\cadastro\bin\Debug\cadastro.exe.config
+C:\Users\werzi\OneDrive\Documents\L.programacao\completo\cadastro\bin\Debug\cadastro.exe
+C:\Users\werzi\OneDrive\Documents\L.programacao\completo\cadastro\bin\Debug\cadastro.pdb
+C:\Users\werzi\OneDrive\Documents\L.programacao\completo\cadastro\obj\Debug\cadastro.csproj.AssemblyReference.cache
+C:\Users\werzi\OneDrive\Documents\L.programacao\completo\cadastro\obj\Debug\cadastro.Form1.resources
+C:\Users\werzi\OneDrive\Documents\L.programacao\completo\cadastro\obj\Debug\cadastro.Properties.Resources.resources
+C:\Users\werzi\OneDrive\Documents\L.programacao\completo\cadastro\obj\Debug\cadastro.csproj.GenerateResource.cache
+C:\Users\werzi\OneDrive\Documents\L.programacao\completo\cadastro\obj\Debug\cadastro.csproj.CoreCompileInputs.cache
+C:\Users\werzi\OneDrive\Documents\L.programacao\completo\cadastro\obj\Debug\cadastro.exe
+C:\Users\werzi\OneDrive\Documents\L.programacao\completo\cadastro\obj\Debug\cadastro.pdb
